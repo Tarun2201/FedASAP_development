@@ -1,0 +1,7 @@
+models1/
+fets_clients/
+__pycache__/
+*.pyc
+*.out
+*.log
+*.sh
